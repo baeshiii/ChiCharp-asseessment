@@ -1,0 +1,7 @@
+C:\Users\Andre\source\repos\AssessmentAct_3_14_24\AssessmentAct_3_14_24\bin\Debug\AssessmentAct_3_14_24.exe.config
+C:\Users\Andre\source\repos\AssessmentAct_3_14_24\AssessmentAct_3_14_24\bin\Debug\AssessmentAct_3_14_24.exe
+C:\Users\Andre\source\repos\AssessmentAct_3_14_24\AssessmentAct_3_14_24\bin\Debug\AssessmentAct_3_14_24.pdb
+C:\Users\Andre\source\repos\AssessmentAct_3_14_24\AssessmentAct_3_14_24\obj\Debug\AssessmentAct_3_14_24.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\AssessmentAct_3_14_24\AssessmentAct_3_14_24\obj\Debug\AssessmentAct_3_14_24.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\AssessmentAct_3_14_24\AssessmentAct_3_14_24\obj\Debug\AssessmentAct_3_14_24.exe
+C:\Users\Andre\source\repos\AssessmentAct_3_14_24\AssessmentAct_3_14_24\obj\Debug\AssessmentAct_3_14_24.pdb
